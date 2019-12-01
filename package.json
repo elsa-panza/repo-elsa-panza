@@ -1,0 +1,17 @@
+{
+    "name": "flattenArray",
+    "description": "",
+    "version": "1.0.0",
+    "main": "flattenArray.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/elsa-panza/repo-elsa-panza.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "",
+    "homepage": ""
+  }
